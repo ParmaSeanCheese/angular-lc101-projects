@@ -1,40 +1,40 @@
 h1 {
 	text-align: center;
 	font-size: 3.5vw;
- }
- 
- h2 {
+}
+
+h2 {
 	text-align: center;
 	font-size: 2.5vw;
- }
- 
- .list {
+}
+
+.list {
 	margin-left: 40px;
 	font-size: 1.8vw;
- }
- 
- ul {
+}
+
+ul {
 	text-align: left;
- }
- 
- .row {
+}
+
+.row {
 	column-count: 3;
 	display: flex;
 	text-align: center;
- }
- 
- .links {
+}
+
+.links {
 	text-align: center;
- }
- 
- .movie{
+}
+
+.movie{
 	color:purple;
- }
- 
- .school{
+}
+
+.school{
 	color:black;
- }
- 
- .hobby{
+}
+
+.hobby{
 	color:red;
- }
+}
